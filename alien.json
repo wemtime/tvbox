@@ -319,10 +319,11 @@
             "quickSearch": 1
         },
         {
-            "key": "drpy_js_哔哩影视",
-            "name": "🧲哔嘀影视",
+            "key": "csp_XYQHiker_哔嘀影视",
+            "name": "🧲哔嘀影视(XYQH)",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "csp_XYQHiker",
+            "jar": "https://gitlab.com/wemtime/tvbox/-/raw/main/spider.jar2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
