@@ -71,6 +71,126 @@
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
+
+        {
+            "key": "南瓜",
+            "name": "🎃南瓜┃App",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "嘿嘿",
+            "name": "💡嘿嘿┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+        },
+        {
+            "key": "南坊",
+            "name": "☀南坊┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+        },
+        {
+            "key": "电影",
+            "name": "🗽电影┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+        },
+        {
+            "key": "九六",
+            "name": "🎀九六┃直连",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        
+        {
+            "key": "繁星",
+            "name": "💥繁星┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+        },
+        {
+            "key": "河马",
+            "name": "👀河马┃App",
+            "type": 3,
+            "api": "csp_Hmys",
+            "playerType": 1,
+            "ext": "https://m.jmzp.net.cn"
+        },
+        {
+            "key": "一起看 ",
+            "name": "🎉一起┃App",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "🌾农民┃直连",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://gitlab.com/wemtime/tvbox/-/raw/main/json/nmys.json"
+        },
+        {
+            "key": "Lib",
+            "name": "🌟利播┃直连",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
+        },
+        {
+            "key": "Cokemv",
+            "name": "📕可乐┃直连",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+
         {
             "key": "红牛",
             "name": "💢红牛",
@@ -279,15 +399,15 @@
         
         {
             "key": "暴风",
-            "name": "暴风",
+            "name": "💢暴风",
             "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "api": "http://by.bfzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
         },
         {
             "key": "索尼",
-            "name": "索尼",
+            "name": "💢索尼",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "categories": [
@@ -329,27 +449,19 @@
             "quickSearch": 1
         },
         {
-            "key": "快帆",
-            "name": "快帆",
-            "type": 1,
-            "api": "https://api.kuaifan.tv/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "量子",
-            "name": "量子",
+            "name": "💢量子",
             "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
         },
         {
             "key": "非凡",
-            "name": "非凡",
+            "name": "💢非凡",
             "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
@@ -385,6 +497,7 @@
                 "海外动漫"
             ]
         },
+
         {
             "key": "csp_Dm84",
             "name": "🚌动漫┃巴士",
@@ -804,6 +917,11 @@
     ],
     "parses": [
         {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
@@ -933,8 +1051,38 @@
             "name": "free",
             "type": 0,
             "url": "https://h5.freejson.xyz/player/?url="
+        },
+        {
+            "name": "免费分享",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
         }
-    ],
+    ], 
     "flags": [
         "youku",
         "qq",
