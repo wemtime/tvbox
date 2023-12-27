@@ -253,14 +253,6 @@
             "changeable": 1
         },
         {
-            "key": "ikun",
-            "name": "💢ikun",
-            "type": 0,
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "飞速",
             "name": "💢飞速",
             "type": 0,
@@ -317,6 +309,24 @@
             "api": "https://damozy1.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "Ikun资源",
+            "name": "💢Ikun资源",
+            "type": 0,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "drpy_js_哔哩影视",
+            "name": "🧲哔嘀影视",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/wemtime/tvbox/-/raw/main/json/哔嘀影视.json"
         },
         {
             "key": "贱贱",
@@ -607,26 +617,7 @@
             "changeable": 1,
             "timeout": 30
         },
-        {
-            "key": "drpy_js_新版6V",
-            "name": "新版6V[js]|磁",
-            "type": 3,
-            "api": "https://gitlab.com/wemtime/tvbox/-/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://gitlab.com/wemtime/tvbox/-/raw/main/js/xb6v.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "drpy_js_97tvs",
-            "name": "高清MP4吧[js]|磁",
-            "type": 3,
-            "api": "https://gitlab.com/wemtime/tvbox/-/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://gitlab.com/wemtime/tvbox/-/raw/main/js/97tvs.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 60
-        },
+        
         {
             "key": "drpy_js_rrdyw",
             "name": "人人電影網[js]|磁",
@@ -647,16 +638,7 @@
             "changeable": 1,
             "timeout": 30
         },
-        {
-            "key": "drpy_js_MP4US",
-            "name": "MP4电影[js]|磁",
-            "type": 3,
-            "api": "https://gitlab.com/wemtime/tvbox/-/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://gitlab.com/wemtime/tvbox/-/raw/main/js/mp4us.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 60
-        },
+        
         {
             "key": "drpy_js_电影港",
             "name": "电影港[js]|磁",
